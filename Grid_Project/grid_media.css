@@ -1,0 +1,916 @@
+@media (max-width:500px)
+{
+	header 
+	{
+		height : 100%;
+		width:100%;
+/*		display: none;*/
+        border: none;
+	}
+	header .topline
+	{
+/*		display: none;*/
+	}
+	header .oganik
+	{
+/*		display: none;*/
+	}
+    .icon .fa-twitter
+    {
+        display: none;
+    }
+    .icon .fa-square-facebook
+    {
+        display: none;
+    }
+    .icon .fa-instagram
+    {
+        display: none;
+    }
+    .post1 .fa-envelope
+    {
+        display: none;
+    }
+    .post2 .email
+    {
+        display: none;
+    }
+     .post2 .anchor
+    {
+        display: none;
+    }
+    .tellphone1 .fa-phone-volume
+    {
+         display: none;
+    }
+     .tellphone2 .phne
+    {
+         display: none;
+    }
+     .tellphone2 .number
+    {
+         display: none;
+    }
+    .oganikk img{
+/*       border: 1px solid;*/
+
+    }
+
+	header .toplinetwo
+	{
+/*		display: none;*/
+	}
+    .toplinetwo .navbarline
+    {
+/*        grid-template-columns: 1fr;*/
+    }
+    .menu-1 
+    {
+        display: block;
+        background: none;
+        margin-top: 0px;
+        line-height: 0px;
+
+    }
+    .menu-1 li 
+    {
+       margin-right: 0px;
+       width: 100%;
+    }
+    .menu-1 .menu-2
+    {
+        display: block;
+        left: 0px;
+        top: 0px;
+        display: none;
+    }
+    .menu-1 .menu-3 
+    {
+        display: block;
+        left: 0px;
+        top: 0px;
+        height: 150px;
+        width: 150px;
+        display: none;
+    }
+    .menu-1 .menu-4
+    {
+        display: block;
+        left: 0px;
+        top: 0px;
+        height: 80px;
+        width: 150px;
+        display: none;
+    }
+    .navigation 
+    {
+        width: 100%;
+
+    }
+
+header .toplinetwo
+{
+    text-align: left;
+}    
+    .navbarline .login
+    {
+        display: none;
+    }
+    .login1 .round
+    {
+        display: none;
+    }
+    .round .fa-user
+    {
+        display: none;
+    }
+    .login2 .reg
+    {
+        display: none;
+    }
+
+.navbarline .country
+{
+    display: none;
+}
+.country .country1
+{
+    display: none;
+}
+.country2 .language
+{
+    display: none;
+}
+
+.country .country22
+{
+    display: none;
+}
+header .background
+	{
+		width: 100%;
+		height: 600px;
+
+	}
+    .foodmarket .one1
+    {
+        left: 30px;
+        top: 110px;
+    }
+     .foodmarket .two2
+    {   width: 100%;
+        left: 0px;
+        top: 0px;
+    }
+
+    .two2 .dest
+    {
+        margin-left: 85px;
+    }
+    span
+    {
+    font-size: 35px;
+    }
+    .two2 .mars 
+    {
+         font-size: 50px;
+    }
+    .freeshipping .freeshipping-1
+    {
+        grid-template-columns: 1fr;
+    }
+   
+
+ .freeshipping
+{
+/*    height: auto;*/
+    width: 100%;
+    margin-top: 200px;
+    
+
+}
+    .fun
+    {
+        display: block;
+        font-size: 30px;
+        margin-top: 10px;
+    }
+                   
+    .globe .v
+    {
+     
+     background:rgba(0, 0, 0, 0.2);
+     margin-left: 25px;
+     margin-top: 40px;
+    }
+
+
+
+        .policyss .ret
+        {
+          font-size: 22px;
+          padding-top: 10px;
+          font-weight: 600;
+        }
+
+
+        .policyss .Money
+        {
+            font-size: 13px;
+            padding-top: 0px;
+            font-weight: 300;
+        }
+
+
+
+
+
+    .freeshipping .freeshipping-2
+    {
+        grid-template-columns: 1fr;
+    }
+
+        .shopiing .ret
+        {
+            font-size: 22px;
+          padding-top: 10px;
+          font-weight: 600;
+        }
+
+            .truck .c-hathi
+            {
+                 background:rgba(0, 0, 0, 0.2);
+                 margin-left: 25px;
+                 margin-top: 40px;
+            }
+
+
+        .shopiing .Money
+        {
+            font-size: 13px;
+            padding-top: 0px;
+            font-weight: 300;
+        }
+
+
+
+
+
+
+
+
+
+
+    .freeshipping .freeshipping-3
+    {
+        grid-template-columns: 1fr;
+    }
+    .storex .storekep
+    {
+         background:rgba(0, 0, 0, 0.2);
+                 margin-left: 25px;
+                 margin-top: 40px;
+    }
+    .Locators .ret
+        {
+          font-size: 22px;
+          padding-top: 10px;
+          font-weight: 600;
+        }
+
+
+        .Locators .Money
+        {
+            font-size: 13px;
+            padding-top: 0px;
+            font-weight: 300;
+        }
+   
+      
+
+
+
+
+
+
+     .foodmarket .two2
+    {
+        animation: unset;
+    }
+/*     .foodmarket .four4*/
+    {
+        left: 200px;
+        top: 200px;
+    }
+    .background .foodmarket
+    {
+        width: 100%;
+/*        height: 100%;*/
+    }
+     .freeshipping{
+        width: 100%;
+       left:0px;
+        top: 600px;
+/*        height: 100%;   */
+
+         }
+         .foodmarket .one11
+            {
+                left: 410px;
+                top: 110px;
+            }
+
+
+
+          .fool
+             {
+                display: none;
+             }
+
+	
+
+
+
+		
+	
+
+  .section01
+  {
+  	width: 100%;
+
+  }
+.section01  .container01
+{
+	width: 100%;
+}
+
+
+.container01  .container-1
+{
+	grid-template-columns: 1fr;
+	gap: 0px;
+}
+.new .add
+{
+	text-align: center;
+}
+
+.new img
+{
+    padding-left:230px ;
+}
+.back-pic .flowr
+{
+	display: none;
+}
+
+.new .porduct
+{
+	text-align: center;
+}
+.container-1 .navii
+{
+	margin-top: 20px;
+}
+
+.container01 .container-2
+{
+	width: 100%;
+}
+
+
+
+.container01 .container-2
+{
+   width: 100%;
+}
+
+
+.bananatext .con 
+{
+    
+    top: -30px;
+    left: 25px;
+    visibility: visible;
+}
+
+
+.bananatext  .con-2
+{
+    
+    top: -30px;
+    left: 25px;
+    visibility: visible;
+}
+
+
+
+
+.bananatext .con-3
+{
+    
+    top: -30px;
+    left: 25px;
+    visibility: visible;
+}
+
+.tatmato-text .con-4
+{
+    
+    top: -30px;
+    left: 25px;
+    visibility: visible;
+}
+
+.tatmato-text .con-5
+{
+    
+    top: -30px;
+    left: 25px;
+    visibility: visible;
+}
+
+.tatmato-text .con-6
+{
+    
+    top: -30px;
+    left: 25px;
+    visibility: visible;
+}
+
+
+
+.container01 .container-2
+{
+   width: 70%;
+   	grid-template-columns:  1fr;
+	gap: 14px;
+/*	margin-top: 80px;*/
+   margin:90px auto	;
+}
+
+
+.container01 .container-3
+
+{
+   width: 70%;
+   	grid-template-columns:  1fr;
+	gap: 15px;
+	margin:0px auto;
+	padding-top: 0px;
+}
+
+.container01 .container-4
+{
+	 width: 70%;
+   	grid-template-columns:  1fr;
+	gap: 24px;
+	margin-top: 0px;
+	margin:10px auto ;
+	height: 100%;
+}
+.organic-1 .organic-001
+{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+/*section -1 part close*/
+
+ .section-2
+ {
+ 	width: 100%;
+ }
+
+ .section-2 .numbers
+ {
+ 	width: 100%;
+ 	grid-template-columns:  1fr;
+ 	height: 100%;
+ }
+
+
+.section-2 .container-5
+{
+	width: 100%;
+	grid-template-columns:  1fr;
+	height:100%;
+}
+.numberss .countnumber-3
+{
+    border-right: 2px solid whitesmoke;
+   position: relative;
+   cursor: pointer;
+   height: 150px;
+   width: 100%;
+}
+
+.guarantee .image222
+{
+	height: 400px;
+	width: 350px;
+	margin-top: 40px;
+	margin-left: 70px;
+}
+.foodonly .photoss
+{
+	display: none;
+}
+.farms-person .person
+
+{
+	width: 100%;
+}
+.person .person-1
+{
+	width: 100%;
+}
+
+.person .person-2
+{
+	width: 100%;
+}
+.farms-person .person
+{
+	flex-direction: column;
+}
+.person-1    .fa-user-secret
+{
+    font-size: 55px;
+     margin-left: 60px;
+     margin-top: 5px;
+     color: ghostwhite;
+}
+.person-2 .mnenss
+{
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+    margin-left: -30px;
+    margin-top: 25px;
+}
+
+.person-2    .fa-house-user
+{
+     font-size: 55px;
+     margin-left: 60px;
+     margin-top: -5px;
+     color: ghostwhite;
+}
+
+.person-1 .mnens
+{
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+    margin-left: -30px;
+    margin-top: 25px;
+}
+
+
+
+
+.section-2 .container-6
+{
+	width: 100%;
+	height: auto;
+}
+.guarantee .logos 
+{
+	display: none;
+}
+
+
+ .container-6   .envato
+ {
+ 	width: 100%;
+/* 	border: 1px solid red;*/
+    grid-gap: 40px;
+
+ }
+
+
+ .envato .envato-4 
+ {
+ 	display: none;
+ }
+
+
+ .envato .envato-5 
+ {
+ display: none;
+ }
+	
+/*section-2 close*/
+
+.section-3
+{
+	width: 100%;
+	background: none;
+}
+.section-3 .pic
+{
+	background: none;
+}
+
+
+
+  .section-3  .container-7
+  {
+  	width: 100%;
+/*  	grid-template-columns: 1fr;*/
+     height: 100%;
+
+
+  }
+  .exery-day .text1 
+  {
+  	margin-top: 0px;
+  }
+  .exery-day .text2
+  {
+  		grid-template-columns: 1fr;
+
+  }
+
+ .exery-day .text
+ {
+ 	margin-top: 00px;
+ }
+   .exery-day .btn
+   {
+   	margin-top: 30px;
+    margin-left: 22px;
+   }
+  .img1 img 
+  {
+  	width: 100%;
+  	height: 100%;
+  }
+  .img2 img
+
+   {
+   	display: none;
+   }
+   .img3 img
+
+   {
+   	display: none;
+   }
+   .img4 img
+
+   {
+   	display: none;
+   }
+   .img5 img
+
+   {
+   	display: none;
+   }
+   .img5 img
+
+   {
+   	display: none;
+   }
+   .img6 img
+
+   {
+   	display: none;
+   }
+   .numbers .numberss
+   {
+   	width: 100%;
+   	grid-template-columns: 1fr;
+   	gap: 0px;
+   	height: 100%;
+      height: 500PX;
+   }
+   .countnumber-1 .no
+   {
+   	 padding-top: 30px;
+       padding-right:0px ;
+
+   }
+   .countnumber-1 .green
+   {
+   	 padding-top: 20px;	
+   	  border-bottom: 2px solid white;
+   }
+
+   .countnumber-2 .no
+   {
+   	 padding-top: 10px;
+       padding-right:0px ;
+/*      */
+   }
+   .countnumber-2 .green
+   {
+   	 padding-top: 10px;	
+   	  border-bottom: 2px solid white;
+
+   }
+
+   .countnumber-3 .no
+   {
+   	 padding-top: 10px;
+       padding-right:0px ;
+   }
+   .countnumber-3 .green
+   {
+   	padding-top: 10px;	
+   	border-bottom: 2px solid white;
+   }
+
+
+
+   .countnumber-4 .no
+   {
+   	padding-top: 0px;
+       padding-right:0px ;
+   }
+   .countnumber-4 .green
+   {
+   	padding-top: 10px;	
+   }
+
+  .section-3  .container-8
+  {
+  	width: 100%;
+  	margin-top: 100px;
+  }
+
+    .people .say
+    {
+    	margin-top: 10px;
+    }
+  .foodonly .textt
+  {
+  	margin-top: 0px;
+	margin-left: 70px;
+  }
+  .foodonly .order-now
+  {
+  	margin-top: 70px;
+  }
+  .container-8 .people
+  {
+  	margin:0px auto ;
+  }
+  .container-8 .card-1
+  {
+  	height: 220px;
+	width: 200px;
+	border: 1px solid green;
+	position: absolute;
+	left:280px;
+	top: 160px;
+  }
+  .container-8 .card-2
+  {
+  	height: 220px;
+	width: 200px;
+	border: 1px solid green;
+	position: absolute;
+	left:0px;
+	top:160px;
+  }
+  .container-8 .card-3
+  {
+  	display: none;
+  }
+  .card-3 .g-box
+  {
+  	display: none;
+  }
+  .card-2 .g-box
+  {
+  	margin-left: 50px;
+	margin-top: -50px;
+  }
+   .card-1 .g-box
+  {
+  	margin-left: 50px;
+	margin-top: -50px;
+  }
+  .card-1 .small
+  {
+  	font-size: 15px;
+  }
+  .card-2 .small
+  {
+  	font-size: 15px;
+  }
+
+
+    .section-3  .container-9
+  {
+  	width: 100%;
+  	margin-top: 50px;
+  }
+ .container-9 .photo
+
+ {
+ 		width: 100%;
+ 		grid-template-columns: 1fr 1fr;
+ 		gap: 20px;
+ }
+
+ .container-9 .photo-3
+ {
+ 	display: none;
+ }
+
+ .container-9 .photo-4
+ {
+ 	display: none;
+ }
+
+ .container-9 .photo-5
+ {
+ 	display: none;
+ }
+
+
+
+
+/*section -3 close and container 7,8-9 close*/
+.footer 
+{
+
+  	width: 100%;
+/*  	background:red;*/
+     height: 1600px;
+}
+ .footer  .footer-1
+
+{
+	height: 1300px;
+  	width: 100%;
+  	grid-template-columns: 1fr;
+   gap: 0px;
+   margin-top: 0px;
+}
+
+ .contact .nu 
+ {
+ 	font-size: 18px;
+ 	
+ 	padding-top: 15px;
+ 	padding-left: 50px;
+ 	
+ }
+
+.link .top 
+{
+   padding-top:15px;
+   
+}
+
+
+.explore .support
+{
+	padding-top: 15px;
+   
+}
+
+ .newsletter  .address
+ {
+ 	height: 70px;
+ 	width: 80%;
+ 	margin-left:50px ;
+ 	margin-top: 30px;
+ }
+
+
+ .newsletter  .subscribe
+ {
+ 	height: 70px;
+ 	width: 80%;
+ 	margin-left:50px ;
+ 	margin-top: 20px;
+ 	cursor: pointer;
+ 	background:#60be74;
+ 	border: none;
+ 	outline: none;
+ 	transition: 1s;
+ }
+
+ .footer-line
+ {
+ 	width: 90%;
+ }
+ .box1
+{
+	height: 100px;
+	width: 200px;
+/*	border: 1px solid green;*/
+	margin:0px auto ;
+	margin-top: -40px;
+}
+
+
+
+/*footer close*/
+
+	
+
+}	
